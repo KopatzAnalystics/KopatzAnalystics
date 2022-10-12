@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KopatzAnalystics
+- 👋 Hi, I’m @KopatzAnalytics
 - 👀 I’m interested in obtaining a challenging career in Data Analytics
 - 🌱 I’m currently learning more about project management and web design
 - 💞️ I’m looking to collaborate on anything and everything code related
